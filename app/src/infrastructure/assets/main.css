@@ -1,0 +1,10 @@
+@import './base.css';
+@import './variables.css';
+
+#app {
+	max-width: 100%;
+}
+
+body {
+	font-weight: normal;
+}
